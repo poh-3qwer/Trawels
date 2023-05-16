@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: red;
+    text-align:center;
+    color:rgb(97, 255, 5);
+    height: 60px;
+    padding:15px 15px 15px 15px;
+}
+
+ol {
+ color: darkred;
+}
+
+.redik {
+text-align:center;
+color:aqua;
+}
+
+footer {
+    background-color: red;
+    color:white;
+}
+
+.yuur {
+    border-radius: 12px;
+    border: dotted 5px blue;
+}
+
+.otyvis {
+    border-radius:12px;
+    border: dotted 5px green;
+}
+
+.polska {
+    width:50px;
+}
+.hungray {
+    width: 90px;
+    padding-left:50px;
+}
+
+.slovakia {
+    width:50px;
+    padding-left:35px;
+}
+
+.romania {
+    width:50px;
+    padding-left:35px;
+}
+
+.type {
+    text-align:center;
+    color:aqua;
+}
+
+.kazak {
+width:50px;
+} 
+
+.china {
+    width:50px;
+}
+
+.mongolia {
+    width:50px;
+}
+
+.autobuses_europa:hover {
+text-decoration: none;
+box-shadow: 5px 10px 0 black;
+}
+
+.autobuses_asia:hover {
+    text-decoration: none;
+box-shadow: 5px 10px 0 black;
+}
+
+.rr:hover {
+    font-family: fantasy;
+}
+
+.re:hover {
+    font-family: fantasy;
+}
+ a:hover {
+box-shadow: 3px 5px 10px  blue;
+ transform: scale(1);
+    transition: 3s linear;
+}
